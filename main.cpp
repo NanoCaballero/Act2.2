@@ -1,3 +1,5 @@
+// Suffix Array - Bernardo Caballero A01722757
+
 #include <iostream>
 #include <string>
 #include <cmath>
