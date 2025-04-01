@@ -1,8 +1,8 @@
 /*    
-Suffix Array - Bernardo Caballero A01722757
-31 de Marzo del 2025
-Tec de Monterrey
-*/
+ * Suffix Array - Bernardo Caballero A01722757
+ * 31 de Marzo del 2025
+ * Tec de Monterrey
+ */
 
 #include <iostream>
 #include <string>
